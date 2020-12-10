@@ -1,32 +1,34 @@
-# d
-    
-  ## Description
-  d
+# README Generator
+  ![GitHub License Badge](https://img.shields.io/github/license/cnix273/README-generator?style=for-the-badge)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/cnix273/README-generator?style=for-the-badge)
+  ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/cnix273/README-generator?style=for-the-badge)
 
-  undefined
+  ## Description
+  This generator generates a README.md file based on user input.
+
   ## Table of Contents
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributing](#contributing)
-  *[Tests](#tests)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
 
   ## Installation
-  d
+  Clone the repo. npm install
 
   ## Usage
-  d
+  Run in terminal.
 
   ## Credits
-  **Author:** d
-  * GitHub: [d](https://github.com/d)
-  * Email: [d](mailto:d)
+  **Author:** Cameron Nix
+  * GitHub: [cnix273](https://github.com/cnix273)
+  * Email: [cnix@g.ucla.edu](mailto:cnix@g.ucla.edu)
 
   ## License
-  MIT License
+  This application is copyrighted under: MIT License.
 
   ## Contributing
-  d
+  Work on your own branch and submit pull request.
 
   ## Tests
-  d
+  No tests.
