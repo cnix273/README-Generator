@@ -87,12 +87,17 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "Describe the steps required to install your project."
+        message: "Please describe the steps required to install your project."
     },
     {
         type: "input",
         name: "usage",
-        message: "Provide instructions and examples for how to use your project."
+        message: "Please provide instructions and examples for how to use your project."
+    },
+    {
+        type: "input",
+        name: "screenshot",
+        message: "If your would like to include a screenshot depicting the functionality of your application and how to use it, please enter the image source url."
     },
     {
         type: "list",
@@ -110,12 +115,12 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "If you would like other developers to contribute to your project, provide guidelines on how to do so."
+        message: "If you would like other developers to contribute to your project, please provide guidelines on how to do so."
     },
     {
         type: "input",
         name: "tests",
-        message: "Provide examples on how to run any tests written for your application, if applicable."
+        message: "Please provide examples on how to run any tests written for your application, if applicable."
     }
 ];
 

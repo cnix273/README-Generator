@@ -21,6 +21,8 @@ function generateMarkdown(answers) {
   ## Usage
   ${answers.usage}
 
+  ![Application Functionality](${answers.screenshot})
+
   ## Credits
   **Author:** ${answers.name}
   * GitHub: [${answers.username}](https://github.com/${answers.username})
