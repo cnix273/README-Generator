@@ -1,7 +1,6 @@
 //Dependencies and variables
 const fs = require("fs");
 const inquirer = require("inquirer");
-const util = require("util");
 const generateMarkdown = require("./utils/generateMarkdown.js")
 
 // array of questions for user
@@ -126,7 +125,7 @@ const questions = [
 
 // function to write README file
 function writeToFile(newReadMe) {
-    fs.writeFile('newREADME.md', newReadMe, err =>
+    fs.writeFile('sampleREADME.md', newReadMe, err =>
     err ? console.error(err) : console.log("Your README.md file has been generated!"));
 };
 
@@ -137,7 +136,7 @@ async function init() {
             const newReadMe = generateMarkdown(answers);
             writeToFile(newReadMe);
         })
-        .catch(error => {
+        .catch(err => {
             console.log(err);
         });
 }

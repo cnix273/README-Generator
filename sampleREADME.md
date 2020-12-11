@@ -4,7 +4,7 @@
   ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/cnix273/README-Generator?style=for-the-badge)
 
   ## Description
-  It generates a readme based on user input
+  This command line application creates a readme.md file based on information the user provides about their project.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,23 +14,23 @@
   * [Tests](#tests)
 
   ## Installation
-  git clone repo and npm install
+  Clone the repo from GitHub.. Download Node and install the inquirer package..
 
   ## Usage
-  run in terminal
+  Tyep "node index.js" in the command line.
 
-  ![Application Functionality](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg/220px-Ash_Tree_-_geograph.org.uk_-_590710.jpg)
+  ![Application Functionality]()
 
   ## Credits
   **Author:** Cameron Nix
   * GitHub: [cnix273](https://github.com/cnix273)
-  * Email: [cnix@g.ucla.edu](mailto:cnix@g.ucla.edu)
+  * Email: [cnix@ucla.edu](mailto:cnix@ucla.edu)
 
   ## License
-  This application is copyrighted under: MIT License.
+  This application is copyrighted under: GNU GPLv3.
 
   ## Contributing
-  Work in your own branch and submit pull request.
+  Please work in a separate branch and submit a pull request.
 
   ## Tests
-  
+  Not applicable
