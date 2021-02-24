@@ -32,9 +32,10 @@ The is a command line application built using Node.js. Therefore, it runs in ter
 
 Using terminal, navigate to the directory containing the index.js file. Type "node index.js" into the command line to run the application. You will be prompted with a series of questions that will be used to generate the README.md file for your project.
 
-**This video is a walkthrough of the application, showing its functioalityn**
+**Application Functionality**
 ![Video Walkthrough](https://github.com/cnix273/README-Generator/blob/main/assets/Walkthrough.gif)
 
+**Screenshot of Generated README**
 ![Sample ReadMe Screenshot](https://github.com/cnix273/README-Generator/blob/main/assets/Screenshot1.png)
 
 ## Credits
