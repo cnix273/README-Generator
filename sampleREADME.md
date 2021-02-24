@@ -1,10 +1,10 @@
-# README Generator
-  ![GitHub License Badge](https://img.shields.io/github/license/cnix273/README-Generator?style=for-the-badge)
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/cnix273/README-Generator?style=for-the-badge)
-  ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/cnix273/README-Generator?style=for-the-badge)
+# Portfolio Perfection
+  ![GitHub License Badge](https://img.shields.io/github/license/cnix273/Portfolio-perfection?style=for-the-badge)
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/cnix273/Portfolio-perfection?style=for-the-badge)
+  ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/cnix273/Portfolio-perfection?style=for-the-badge)
 
   ## Description
-  This command line application creates a readme.md file based on information the user provides about their project.
+  This application serves as a professional portfolio.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,23 +14,23 @@
   * [Tests](#tests)
 
   ## Installation
-  Clone the repo from GitHub.. Download Node and install the inquirer package..
+  git clone the repository from github
 
   ## Usage
-  Tyep "node index.js" in the command line.
 
-  ![Application Functionality]()
+
+  ![Application Functionality](https://github.com/cnix273/README-Generator/blob/main/assets/Screenshot1.png)
 
   ## Credits
   **Author:** Cameron Nix
   * GitHub: [cnix273](https://github.com/cnix273)
-  * Email: [cnix@ucla.edu](mailto:cnix@ucla.edu)
+  * Email: [cnix273@gmail.com](mailto:cnix273@gmail.com)
 
   ## License
-  This application is copyrighted under: GNU GPLv3.
+  This application is copyrighted under: MIT License.
 
   ## Contributing
-  Please work in a separate branch and submit a pull request.
+  Work on the application is a separate branch.
 
   ## Tests
-  Not applicable
+  

@@ -34,6 +34,7 @@ Using terminal, navigate to the directory containing the index.js file. Type "no
 
 **This video is a walkthrough of the application, showing its functioalityn**
 ![Video Walkthrough](https://github.com/cnix273/README-Generator/blob/main/assets/Walkthrough.gif)
+
 ![Sample ReadMe Screenshot](https://github.com/cnix273/README-Generator/blob/main/assets/Screenshot.png)
 
 ## Credits
