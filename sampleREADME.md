@@ -19,7 +19,7 @@
   ## Usage
 
 
-  ![Application Functionality](https://github.com/cnix273/README-Generator/blob/main/assets/Screenshot1.png)
+  ![Application Functionality](https://github.com/cnix273/README-Generator/blob/main/assets/Screenshot.png)
 
   ## Credits
   **Author:** Cameron Nix
